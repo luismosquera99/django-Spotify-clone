@@ -43,6 +43,3 @@ The project is deployed using Zeet with AWS Lambda. To deploy your own version o
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
